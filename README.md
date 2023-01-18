@@ -1,13 +1,7 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Todo-list com Docker
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
-
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Descrição
+  Este é o primeiro projeto proposto pela [Trybe](https://www.betrybe.com/) no modulo de back-end, ele mostra a capacidade dos alunos em criar e manipular imagens e containers docker utilizando dockerfile e o docker-compose.
+  
+## O que foi criado?
+  Toda a parte inicial do projeto foi criado unicamente pela trybe, os alunos montaram os comandos que o docker iria executar, o dockerfile e o docker-compose.yaml
